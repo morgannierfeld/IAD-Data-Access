@@ -1,5 +1,5 @@
 # Signing In
-Sign in to the AWS account will be done through your own email utilising a one time password.
+***Sign in to the AWS account will be done through your own email utilising a one time password.***
 
 Follow the steps below if you need some guidance with this.
 
