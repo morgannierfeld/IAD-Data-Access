@@ -5,5 +5,6 @@ Here you'll be able to find guidence for:
 - [Datasets](datasets.md)
 - [Sign In](sign-in.md)
 - [SageMaker](sagemaker.md)
+- [S3](s3.md)
 
 If you get stuck or need more assistance feel free to reach out to our tech experts. 
