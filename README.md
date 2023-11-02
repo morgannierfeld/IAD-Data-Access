@@ -1,5 +1,17 @@
-# IAD-Data-Access
-Welcome to the Indigenous Australian Datathon 2023. We will be working together to solve community challenges and coming up with solutions together as a team.
+<div style="position: relative;">
+    <img src="images/IAD-2023.png" alt="IAD-2023" style="width: 100%; margin-left: 50px;" >
+    <img src="images/IAD-Logo.png" alt="IAD-Logo" style="position: absolute; top: 0; left: 0;">
+</div><br>
+
+Welcome to the Indigenous Australian Datathon 2023. We will be working together to solve community challenges and coming up with solutions together as a team. This event will educate and train participants in handling data and developing tools that solve real world problems. It's a great way to bring traditional communities with technical experts and form connections that will endure long after the event is over.
+
+This year we will see teams work on problems in the following themes.
+- Health
+- Rock Art
+- Agriculture: Animal Management
+- Agriculture: Erosion
+- Agriculture: Fauna Identification
+- Emergency Management - Search and Rescue
 
 Here you'll be able to find guidence for:
 - [Datasets](datasets.md)
