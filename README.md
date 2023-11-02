@@ -1,6 +1,5 @@
 <div style="position: relative;">
-    <img src="images/IAD-2023.png" alt="IAD-2023" style="width: 100%; margin-left: 50px;" >
-    <img src="images/IAD-Logo.png" alt="IAD-Logo" style="position: absolute; top: 0; left: 50;">
+    <img src="images/IAD-2023.png" alt="IAD-2023" style="width: 100%;" >
 </div><br>
 
 Welcome to the Indigenous Australian Datathon 2023. We will be working together to solve community challenges and coming up with solutions together as a team. This event will educate and train participants in handling data and developing tools that solve real world problems. It's a great way to bring indigenous communities with technical experts and form connections that will endure long after the event is over.
