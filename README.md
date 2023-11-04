@@ -13,6 +13,7 @@ This year we will see teams work on problems in the following themes.
 - Emergency Management - Search and Rescue
 
 Here you'll be able to find guidence for:
+- [Accounts](accounts.md)
 - [Datasets](datasets.md)
 - [Sign In](sign-in.md)
 - [SageMaker](sagemaker.md)
