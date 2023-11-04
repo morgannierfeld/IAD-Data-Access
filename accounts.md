@@ -2,10 +2,9 @@
 
 | table-number | team-hash-login                                     | aws-account-id |
 |--------------|----------------------------------------------------|---------------|
-| 1            | [Health](https://dashboard.eventengine.run/login?hash=a882-03b504b3b4-e6) | 893654782824 |
-| 2            | [Rock Art](https://dashboard.eventengine.run/login?hash=3289-0be28e7024-13) | 369556709682 |
-| 3            | [Agriculture: Animal Management](https://dashboard.eventengine.run/login?hash=1dc1-0def9f2c04-19) | 60274094668  |
-| 4            | [Agriculture: Erosion](https://dashboard.eventengine.run/login?hash=57a6-0a77af2e34-85) | 151325315782 |
-| 5            | [Agriculture: Fauna Identification](https://dashboard.eventengine.run/login?hash=f1e0-0fffff0a64-b6) | 430436995186 |
-| 6            | [Emergency Management - Search and Rescue](https://dashboard.eventengine.run/login?hash=4c9b-0bf0f998f4-28) | 779446365887 |
-
+| 1            | [Health 1](https://dashboard.eventengine.run/login?hash=a882-03b504b3b4-e6){:target="_blank"}, [Health 2](https://dashboard.eventengine.run/login?hash=8d8e-044b245704-28){:target="_blank"} | 893654782824, 34656306683 |
+| 2            | [Rock Art 1](https://dashboard.eventengine.run/login?hash=3289-0be28e7024-13){:target="_blank"}, [Rock Art 2](https://dashboard.eventengine.run/login?hash=0370-024661e274-32){:target="_blank"} | 369556709682, 363211877280 |
+| 3            | [Agriculture: Animal Management 1](https://dashboard.eventengine.run/login?hash=1dc1-0def9f2c04-19){:target="_blank"}, [Agriculture: Animal Management 2](https://dashboard.eventengine.run/login?hash=c307-04f7d738a4-cc){:target="_blank"} | 60274094668, 231372277900  |
+| 4            | [Agriculture: Erosion 1](https://dashboard.eventengine.run/login?hash=57a6-0a77af2e34-85){:target="_blank"}, [Agriculture: Erosion 2](https://dashboard.eventengine.run/login?hash=99a7-0297a61c74-ea){:target="_blank"} | 151325315782, 539727983815 |
+| 5            | [Agriculture: Fauna Identification 1](https://dashboard.eventengine.run/login?hash=f1e0-0fffff0a64-b6){:target="_blank"}, [Agriculture: Fauna Identification 2](https://dashboard.eventengine.run/login?hash=4127-02d6b85544-c2){:target="_blank"} | 430436995186, 3212118224 |
+| 6            | [Emergency Management - Search and Rescue 1](https://dashboard.eventengine.run/login?hash=4c9b-0bf0f998f4-28){:target="_blank"}, [Emergency Management - Search and Rescue 2](https://dashboard.eventengine.run/login?hash=bea8-03de58ac44-82){:target="_blank"} | 779446365887, 180176203420 |
